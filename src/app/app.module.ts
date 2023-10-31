@@ -16,6 +16,7 @@ import {MatFormFieldModule} from '@angular/material/form-field';
 import {MatDatepickerModule} from '@angular/material/datepicker';
 import { MatNativeDateModule } from '@angular/material/core';
 import {MatRadioModule} from '@angular/material/radio';
+import { ReactiveFormsModule } from '@angular/forms';
 
 
 
@@ -38,6 +39,7 @@ import {MatRadioModule} from '@angular/material/radio';
     MatDatepickerModule,
     MatNativeDateModule,
     MatRadioModule,
+    ReactiveFormsModule,
 
   ],
   providers: [],
